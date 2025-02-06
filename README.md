@@ -42,7 +42,7 @@ Generate an AI-powered travel itinerary with estimated costs.
 Application can be viewed here: 
 * [Live](https://colab.research.google.com/drive/16BtzMUKqmj9YyG1IE4cB429e0wD3OPB4?usp=sharing)
 
-* [Repository](https://github.com/yvonnesarah/responsive-travel-project)
+* [Repository](https://github.com/yvonnesarah/travel-planner-project)
 
 ## 🖼 Screenshot
 Below is a preview of Travel Planner:
